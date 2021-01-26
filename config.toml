@@ -1,5 +1,5 @@
 baseURL = "gtd1.github.io"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "GTD1"
 theme = "ananke"
 publishDir = "docs"
